@@ -3,7 +3,10 @@ Week 1 Lab - Python Syntax Basics
 Learn about variables, data types, and basic Python syntax.
 """
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/main
 # Exercise 1: Variables and Assignment
 # Create variables for the following information about yourself:
 name = "Your Name Here"  # Replace with your actual name
@@ -78,6 +81,7 @@ print("a =", a, "b =", b, "c =", c)
 # Complete the following assignments:
 
 # String variable containing your favorite color
+<<<<<<< HEAD
 favorite_color = 'Blue'
 
 # Integer variable with the current year
@@ -88,6 +92,18 @@ favorite_number = 25
 
 # Boolean variable indicating if you like pizza
 likes_pizza = True
+=======
+favorite_color = 
+
+# Integer variable with the current year
+current_year = 
+
+# Float variable with your favorite number (with decimal)
+favorite_number = 
+
+# Boolean variable indicating if you like pizza
+likes_pizza = 
+>>>>>>> upstream/main
 
 # Print all variables with descriptive messages
 print("My favorite color is:", favorite_color)
